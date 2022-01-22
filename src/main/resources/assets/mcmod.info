@@ -1,0 +1,16 @@
+[
+{
+  "modid": "quarry",
+  "name": "QuarryCL",
+  "description": "You know.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ME"],
+  "credits": "To ME",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
